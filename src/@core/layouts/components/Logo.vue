@@ -17,7 +17,7 @@
     height="150"
     x="0"
     y="0"
-    href=""https://i.ibb.co/1ngd1BK/Logo1.png""
+    href="https://i.ibb.co/1ngd1BK/Logo1.png"
   />
   </svg>
 </template>
